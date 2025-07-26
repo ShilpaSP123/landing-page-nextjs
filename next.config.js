@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'images.wanderon.in',
+        hostname: 'images.solopackers.in',
       },
       {
         protocol: 'https',

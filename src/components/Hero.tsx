@@ -11,7 +11,7 @@ const Hero = ({ onEnquireClick }: HeroProps) => {
     <section className="hero">
       <div className="hero-background">
         <Image 
-          src="https://images.WanderOn.in/ad-campaign-files/2025/04/29/bali-2025/2%20(3).webp" 
+          src="https://images.solopackers.in/ad-campaign-files/2025/04/29/bali-2025/2%20(3).webp"
           alt="Bali Hero Image" 
           className="hero-image"
           fill

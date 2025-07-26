@@ -12,14 +12,14 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'SoloPackers Bali Trips - Starting from ₹47,999',
     description: 'Explore Bali with SoloPackers&apos; exclusive tour packages. Starting from ₹47,999. Book your dream Bali vacation now!',
-    images: ['https://images.WanderOn.in/ad-campaign-files/2025/04/29/bali-2025/2%20(3).webp'],
+    images: ['https://images.solopackers.in/ad-campaign-files/2025/04/29/bali-2025/2%20(3).webp'],
     url: 'https://solopackers.com/campaign/ad/bali-2025',
   },
   twitter: {
     card: 'summary_large_image',
   },
   icons: {
-    icon: 'https://images.WanderOn.in/WanderOn%202025%20logo%20mobile?updatedAt=1738414156764',
+    icon: 'https://res.cloudinary.com/dwcislsn6/image/upload/v1751631790/App_Icon-02_beicdl.png',
   },
 }
 
