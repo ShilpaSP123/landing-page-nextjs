@@ -111,7 +111,7 @@ const Packages = ({ onEnquireClick }: PackagesProps) => {
                           </div>
                           <div className="day-item-accordion">
                             <span className="day-label">DAY 2</span>
-                            <span className="day-desc">Swing Over Rice Fields| Thrilling ATV Ride through Ubud's Countryside</span>
+                            <span className="day-desc">Swing Over Rice Fields| Thrilling ATV Ride through Ubud&apos;s Countryside</span>
                           </div>
                           <div className="day-item-accordion">
                             <span className="day-label">DAY 3</span>
@@ -202,7 +202,7 @@ const Packages = ({ onEnquireClick }: PackagesProps) => {
                 </div>
                 <div className="itinerary-day">
                   <div className="day-number">DAY 2</div>
-                  <div className="day-description">Swing Over Rice Fields| Thrilling ATV Ride through Ubud's Countryside</div>
+                  <div className="day-description">Swing Over Rice Fields| Thrilling ATV Ride through Ubud&apos;s Countryside</div>
                 </div>
                 <div className="itinerary-day">
                   <div className="day-number">DAY 3</div>
@@ -248,7 +248,7 @@ const Packages = ({ onEnquireClick }: PackagesProps) => {
                   </li>
                   <li>
                     <span>•</span>
-                    <span>Dive into Bali's soul at Uluwatu and Kecak show.</span>
+                    <span>Dive into Bali&apos;s soul at Uluwatu and Kecak show.</span>
                   </li>
                   <li>
                     <span>•</span>

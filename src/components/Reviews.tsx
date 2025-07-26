@@ -60,7 +60,7 @@ const Reviews = () => {
                 />
               </div>
               <div className="review-content">
-                <p>"{review.text}"</p>
+                <p>&ldquo;{review.text}&rdquo;</p>
                 <h4>{review.author}</h4>
               </div>
             </div>

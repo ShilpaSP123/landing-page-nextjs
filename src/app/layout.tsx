@@ -6,12 +6,12 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'SoloPackers Bali Trips - Starting from ₹47,999',
-  description: 'Explore Bali with SoloPackers\' exclusive tour packages. Starting from ₹47,999. Book your dream Bali vacation now!',
+  description: 'Explore Bali with SoloPackers&apos; exclusive tour packages. Starting from ₹47,999. Book your dream Bali vacation now!',
   keywords: 'Bali tour packages, Bali trips, SoloPackers, Indonesia travel, Bali vacation, Nusa Penida, Ubud, Gili Islands',
   authors: [{ name: 'SoloPackers' }],
   openGraph: {
     title: 'SoloPackers Bali Trips - Starting from ₹47,999',
-    description: 'Explore Bali with SoloPackers\' exclusive tour packages. Starting from ₹47,999. Book your dream Bali vacation now!',
+    description: 'Explore Bali with SoloPackers&apos; exclusive tour packages. Starting from ₹47,999. Book your dream Bali vacation now!',
     images: ['https://images.WanderOn.in/ad-campaign-files/2025/04/29/bali-2025/2%20(3).webp'],
     url: 'https://solopackers.com/campaign/ad/bali-2025',
   },
